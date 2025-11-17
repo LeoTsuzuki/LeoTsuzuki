@@ -56,7 +56,7 @@ Atualmente, estudo **Java, POO, Estrutura de Dados, UML, Banco de Dados e Linux*
 ### ☕ **Java POO – Projetos Acadêmicos**
 Aplicações simples usando classes, objetos, modularização e boas práticas de desenvolvimento.
 
-### 📚 **Estruturas de Dados em Java**
+### 📚 **Estruturas de Dados em C++**
 Implementações de listas, pilhas e filas para reforçar lógica e organização de código.
 
 ### 🗄️ **Modelagens de Banco de Dados**
