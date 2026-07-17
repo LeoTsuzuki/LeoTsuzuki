@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-Sou estudante de **Sistemas de Informação (2º semestre)** e também curso o **Técnico em Desenvolvimento de Sistemas pela ETEC**. Estou construindo uma base sólida em desenvolvimento de software, com foco em lógica, programação orientada a objetos, estrutura de dados e fundamentos essenciais da computação.
+Sou estudante de **Sistemas de Informação (4º semestre)** e também curso o **Técnico em Desenvolvimento de Sistemas pela ETEC**. Estou construindo uma base sólida em desenvolvimento de software, com foco em lógica, programação orientada a objetos, estrutura de dados e fundamentos essenciais da computação.
 
 Atualmente, estudo **Java, POO, Estrutura de Dados, UML, Banco de Dados e Linux**, além de princípios de **design digital** para melhorar a apresentação visual dos meus projetos.
 
