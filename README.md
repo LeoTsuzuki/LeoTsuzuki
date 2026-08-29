@@ -68,10 +68,52 @@ Sistema desktop baseado em caso de uso real: gestão de distribuidora de carvão
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoTsuzuki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTsuzuki&layout=compact&langs_count=8&theme=tokyonight"/>
+<a href="https://github.com/LeoTsuzuki">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoTsuzuki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/LeoTsuzuki?tab=repositories">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTsuzuki&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</a>
+<br>
+<a href="https://github.com/LeoTsuzuki">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoTsuzuki&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
+
+<details>
+<summary>📊 Se as estatísticas não carregarem (rate limit), use esta versão</summary>
+
+<br>
+
+O GitHub às vezes faz rate-limit nas APIs públicas usadas por `vercel.app` e
+`herokuapp.com`. Se as imagens acima ficarem quebradas, substitua pela versão abaixo —
+usa `shields.io` que é praticamente 100% estável.
+
+```markdown
+<div align="center">
+
+### Métricas em tempo real
+
+![Stars](https://img.shields.io/github/stars/LeoTsuzuki?style=for-the-badge&color=f97316&labelColor=0f172a)
+![Followers](https://img.shields.io/github/followers/LeoTsuzuki?style=for-the-badge&color=f97316&labelColor=0f172a)
+![Repos](https://img.shields.io/badge/-repos-1e293b?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=LeoTsuzuki&style=for-the-badge&color=f97316&label=VIEWS)
+
+### Linguagens mais usadas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+```
+
+</details>
 
 ---
 
