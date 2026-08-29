@@ -1,84 +1,98 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub!
+<div align="center">
 
-Sou estudante de **Sistemas de Informação (4º semestre)** e também curso o **Técnico em Desenvolvimento de Sistemas pela ETEC**. Estou construindo uma base sólida em desenvolvimento de software, com foco em lógica, programação orientada a objetos, estrutura de dados e fundamentos essenciais da computação.
+# Leonardo Tsuzuki
 
-Atualmente, estudo **Java, POO, Estrutura de Dados, UML, Banco de Dados e Linux**, além de princípios de **design digital** para melhorar a apresentação visual dos meus projetos.
+**Backend Developer · Java & Spring Boot**
 
----
+Estudante de Sistemas de Informação (IFSP) e Técnico em Desenvolvimento de Sistemas (ETEC).
+Construindo APIs, modelando bancos de dados e aprendendo engenharia de software na prática.
 
-## 🚀 Sobre mim
+[![Status](https://img.shields.io/badge/status-open%20to%20work-f97316?style=for-the-badge)](https://linkedin.com/in/leonardotsuzuki)
+[![Local](https://img.shields.io/badge/-Fernandopolis--SP-1e293b?style=for-the-badge)]()
 
-- 🎓 Estudante de Sistemas de Informação  
-- 🛠️ Técnico em Desenvolvimento de Sistemas (ETEC)  
-- ☕ Estudando Java e POO  
-- 🧠 Praticando Estrutura de Dados  
-- 🗂️ Desenvolvendo modelagens UML  
-- 🐧 Usuário de Linux para estudos e desenvolvimento  
-- 🗄️ Aprendendo Banco de Dados  
-- 🎨 Noções de design digital  
-- 🎯 Buscando meu primeiro estágio em desenvolvimento  
+</div>
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+## Sobre mim
 
-### 💻 Desenvolvimento
-- Java  
-- Programação Orientada a Objetos
-- Estrutura de Dados  
-- Python 
-- C++
-- HTML & CSS  
-
-### 🗂️ Modelagem e Arquitetura
-- UML (classes, casos de uso, sequência)  
-- Análise e documentação de requisitos  
-
-### 🗄️ Banco de Dados
-- SQL  
-- Modelagem conceitual, lógica e física  
-
-### 🐧 Sistemas Operacionais
-- Linux (terminal, permissões, diretórios, comandos essenciais)
-- Windows
-
-### 📦 Outras Competências
-- Git & GitHub  
-- Organização de projetos  
-- Noções de design digital  
+- Bacharelado em **Sistemas de Informação** — IFSP Votuporanga (4º semestre)
+- Técnico em **Desenvolvimento de Sistemas** — ETEC Fernandópolis (3º módulo)
+- Atualmente **Auxiliar Administrativo** na Fertela do Brasil
+- Foco em **backend Java + Spring Boot** e boas práticas de arquitetura
+- Fernandópolis - SP · Aberto a estágio remoto ou presencial
 
 ---
 
-# 📁 Projetos em Desenvolvimento
+## Stack
 
-> Projetos iniciais enquanto construo meu portfólio.
+### Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### ☕ **Java POO – Projetos Acadêmicos**
-Aplicações simples usando classes, objetos, modularização e boas práticas de desenvolvimento.
-
-### 📚 **Estruturas de Dados em C++**
-Implementações de listas, pilhas e filas para reforçar lógica e organização de código.
-
-### 🗄️ **Modelagens de Banco de Dados**
-Criação de modelos conceituais, lógicos e físicos, além de consultas SQL.
-
----
-
-# 🎯 Objetivo Profissional
-
-Desenvolver competências técnicas consistentes, construir um portfólio forte e conquistar minha primeira oportunidade como **estagiário em desenvolvimento**, com foco em back-end e boas práticas de engenharia de software.
+### Frameworks & Ferramentas
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-# 📊 Estatísticas do GitHub
+## Projetos em destaque
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTsuzuki&hide_progress=true&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoTsuzuki&show_icons=true&theme=dark)
+### [InvestDash](https://github.com/LeoTsuzuki/investdash) — Dashboard de Investimentos
+App web completo para controle de carteira de ações, FIIs, ETFs e criptomoedas.
+- Cotação em tempo real via Yahoo Finance API
+- Controle de receitas/despesas por categoria
+- Gráficos interativos com Chart.js
+- Feed automático de notícias dos ativos
+
+**Stack:** Python · Flask · SQLite · Chart.js · yfinance
+
+### [Distribuidora Brasão](https://github.com/LeoTsuzuki/DistribuidoraBrasao) — Gestão de Distribuidora
+Sistema desktop baseado em caso de uso real: gestão de distribuidora de carvão.
+- Cadastro de fornecedores, produtos, clientes PF/PJ
+- Controle de estoque, vendas e despesas
+- Relatórios em PDF via JasperReports
+- Arquitetura MVC em camadas (DAO/DTO/CTR/VIEW)
+
+**Stack:** Java · Swing · PostgreSQL · JDBC · JasperReports
 
 ---
 
-# 📫 Contato
+## GitHub Stats
 
-- 📧 Email: leonardotsuzuki03@gmail.com
-- 🌐 GitHub: github.com/LeoTsuzuki
-- 📱 LinkedIn: [LinkedIn](https://www.linkedin.com/in/leonardotsuzuki/) 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoTsuzuki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTsuzuki&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## Formação
+
+- **Bacharelado em Sistemas de Informação** — [IFSP Votuporanga](https://vot.ifsp.edu.br) · 2025 - 2028
+- **Técnico em Desenvolvimento de Sistemas** — [ETEC Fernandópolis](https://etecfernandopolis.com.br) · 2025 - 2026
+
+---
+
+## Contato
+
+- [LinkedIn](https://linkedin.com/in/leonardotsuzuki)
+- leonardotsuzuki03@gmail.com
+- (17) 99718-9874
+- [Portfolio](https://leotsuzuki.github.io)
+
+---
+
+<div align="center">
+
+Aberto para estágio em desenvolvimento backend · Java · Spring Boot · SQL
+
+</div>
