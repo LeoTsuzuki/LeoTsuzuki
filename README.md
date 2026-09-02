@@ -81,41 +81,6 @@ Sistema desktop baseado em caso de uso real: gestão de distribuidora de carvão
 
 </div>
 
-<details>
-<summary>📊 Se as estatísticas não carregarem (rate limit), use esta versão</summary>
-
-<br>
-
-O GitHub às vezes faz rate-limit nas APIs públicas usadas por `vercel.app` e
-`herokuapp.com`. Se as imagens acima ficarem quebradas, substitua pela versão abaixo —
-usa `shields.io` que é praticamente 100% estável.
-
-```markdown
-<div align="center">
-
-### Métricas em tempo real
-
-![Stars](https://img.shields.io/github/stars/LeoTsuzuki?style=for-the-badge&color=f97316&labelColor=0f172a)
-![Followers](https://img.shields.io/github/followers/LeoTsuzuki?style=for-the-badge&color=f97316&labelColor=0f172a)
-![Repos](https://img.shields.io/badge/-repos-1e293b?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=LeoTsuzuki&style=for-the-badge&color=f97316&label=VIEWS)
-
-### Linguagens mais usadas
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-```
-
-</details>
-
----
 
 ## Formação
 
