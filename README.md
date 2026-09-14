@@ -93,8 +93,7 @@ Sistema desktop baseado em caso de uso real: gestão de distribuidora de carvão
 
 - [LinkedIn](https://linkedin.com/in/leonardotsuzuki)
 - leonardotsuzuki03@gmail.com
-- (17) 99718-9874
-- [Portfolio](https://leotsuzuki.github.io)
+- [Portfolio](https://leotsuzuki.github.io/portifolio/)
 
 ---
 
